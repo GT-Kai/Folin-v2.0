@@ -99,4 +99,3 @@ py-folin是一个使用 Python 实现的茯苓语音客户端
 
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=Huang-junsen/py-xiaozhi&type=Date)](https://www.star-history.com/#Huang-junsen/py-xiaozhi&Date)
