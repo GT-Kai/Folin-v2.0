@@ -1,0 +1,181 @@
+2025-03-17 11:51:50,781 - root - INFO - 日志系统已初始化，日志文件: d:\documents\GitHub\py-xiaozhi-main\src\utils\..\..\logs\app.log
+2025-03-17 11:51:50,781 - ConfigManager - INFO - Generated new CLIENT_ID: 9d178513-2404-411d-8f9e-55dd3f25c6a6
+2025-03-17 11:51:50,781 - ConfigManager - INFO - Generated new DEVICE_ID: a4:0c:66:10:ef:07
+2025-03-17 11:51:52,164 - ConfigManager - INFO - MQTT服务器信息已更新
+2025-03-17 11:51:52,166 - ConfigManager - INFO - MQTT信息已成功更新
+2025-03-17 11:51:52,591 - Application - INFO - 唤醒词功能已禁用
+2025-03-17 11:51:52,591 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-17 11:51:52,601 - Main - INFO - 应用程序已启动，按Ctrl+C退出
+2025-03-17 11:51:52,711 - Application - INFO - 正在初始化应用程序...
+2025-03-17 11:51:52,748 - MusicPlayer - INFO - 音乐播放器初始化完成
+2025-03-17 11:51:52,781 - Application - INFO - 物联网设备初始化完成
+2025-03-17 11:51:52,781 - Application - INFO - 主循环已启动
+2025-03-17 11:51:52,911 - GuiDisplay - INFO - 音量控制器初始化成功，当前音量: 74%
+2025-03-17 11:51:53,591 - AudioCodec - INFO - 使用默认设备: 鑰虫満 (2- EDIFIER W820NB 鍙岄噾鏍囩増) (Index: 1)
+2025-03-17 11:51:53,591 - AudioCodec - INFO - 使用默认设备: 扬声器 (2- EDIFIER W820NB 双金标版) (Index: 13)
+2025-03-17 11:51:53,625 - AudioCodec - INFO - 音频设备和编解码器初始化成功
+2025-03-17 11:51:53,631 - Application - INFO - 音频编解码器初始化成功
+2025-03-17 11:51:53,631 - Application - INFO - 系统音量控制未启用，将使用模拟音量控制
+2025-03-17 11:51:53,632 - Application - INFO - 唤醒词功能已禁用
+2025-03-17 11:51:53,633 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-17 11:51:53,633 - Application - INFO - 唤醒词功能已禁用，无法启动
+2025-03-17 11:51:53,633 - Application - INFO - 应用程序初始化完成
+2025-03-17 11:51:53,743 - Display - INFO - 键盘监听器初始化成功
+2025-03-17 11:51:53,743 - Display - INFO - 开始启动GUI主循环
+2025-03-17 11:51:53,963 - Display - INFO - 设置音量: 74%
+2025-03-17 11:51:57,698 - Application - INFO - 状态变更: idle -> connecting
+2025-03-17 11:51:59,111 - Application - INFO - 音频通道已打开
+2025-03-17 11:51:59,111 - WebsocketProtocol - INFO - 成功处理服务器 hello 消息
+2025-03-17 11:51:59,111 - WebsocketProtocol - INFO - 已连接到WebSocket服务器
+2025-03-17 11:51:59,111 - Application - INFO - 状态变更: connecting -> listening
+2025-03-17 11:51:59,134 - Application - INFO - 音频流已启动
+2025-03-17 11:51:59,831 - Application - INFO - 状态变更: listening -> idle
+2025-03-17 11:52:05,029 - Application - INFO - 状态变更: idle -> connecting
+2025-03-17 11:52:05,029 - Application - INFO - 状态变更: connecting -> listening
+2025-03-17 11:52:07,563 - Application - INFO - 状态变更: listening -> idle
+2025-03-17 11:52:07,711 - Application - INFO - >> 保险公。
+2025-03-17 11:52:07,731 - Application - INFO - 状态变更: idle -> speaking
+2025-03-17 11:52:08,010 - Application - INFO - << 请登录到控制面板添加设备，输入验证码：112476。
+2025-03-17 11:52:08,016 - Application - INFO - 验证码 112476 已复制到剪贴板
+2025-03-17 11:52:08,353 - Application - INFO - 已打开登录页面
+2025-03-17 11:52:08,354 - Application - WARNING - 警告: 验证码, 您的验证码是: 112476
+2025-03-17 11:52:14,200 - Application - INFO - 状态变更: speaking -> idle
+2025-03-17 11:53:14,853 - Application - INFO - 状态变更: idle -> connecting
+2025-03-17 11:53:14,853 - Application - INFO - 状态变更: connecting -> listening
+2025-03-17 11:53:14,853 - Application - INFO - 音频通道已关闭
+2025-03-17 11:53:14,853 - Application - INFO - 状态变更: listening -> idle
+2025-03-17 11:53:14,853 - Application - INFO - 在空闲状态下启动唤醒词检测
+2025-03-17 11:53:14,853 - Application - INFO - 唤醒词功能已禁用，无法启动
+2025-03-17 11:53:14,853 - Application - INFO - 检测到连接断开
+2025-03-17 11:53:14,873 - Application - INFO - 音频流已停止
+2025-03-17 11:53:20,716 - Application - INFO - 状态变更: idle -> connecting
+2025-03-17 11:53:22,049 - Application - INFO - 音频通道已打开
+2025-03-17 11:53:22,049 - WebsocketProtocol - INFO - 成功处理服务器 hello 消息
+2025-03-17 11:53:22,049 - WebsocketProtocol - INFO - 已连接到WebSocket服务器
+2025-03-17 11:53:22,049 - Application - INFO - 状态变更: connecting -> listening
+2025-03-17 11:53:22,069 - Application - INFO - 音频流已启动
+2025-03-17 11:53:24,368 - Application - INFO - 状态变更: listening -> idle
+2025-03-17 11:53:24,576 - Application - INFO - >> 你好，小智。
+2025-03-17 11:53:24,606 - Application - INFO - 状态变更: idle -> speaking
+2025-03-17 11:53:24,741 - Application - INFO - << 请登录到控制面板添加设备，输入验证码：112476。
+2025-03-17 11:53:24,751 - Application - INFO - 验证码 112476 已复制到剪贴板
+2025-03-17 11:53:24,772 - Application - INFO - 已打开登录页面
+2025-03-17 11:53:24,772 - Application - WARNING - 警告: 验证码, 您的验证码是: 112476
+2025-03-17 11:53:30,834 - Application - INFO - 状态变更: speaking -> idle
+2025-03-17 11:55:10,550 - Application - INFO - 状态变更: idle -> connecting
+2025-03-17 11:55:10,550 - Application - INFO - 状态变更: connecting -> listening
+2025-03-17 11:55:10,550 - Application - INFO - 音频通道已关闭
+2025-03-17 11:55:10,550 - Application - INFO - 状态变更: listening -> idle
+2025-03-17 11:55:10,550 - Application - INFO - 在空闲状态下启动唤醒词检测
+2025-03-17 11:55:10,550 - Application - INFO - 唤醒词功能已禁用，无法启动
+2025-03-17 11:55:10,550 - Application - INFO - 检测到连接断开
+2025-03-17 11:55:10,570 - Application - INFO - 音频流已停止
+2025-03-17 11:55:14,484 - Application - INFO - 状态变更: idle -> connecting
+2025-03-17 11:55:15,856 - Application - INFO - 音频通道已打开
+2025-03-17 11:55:15,856 - WebsocketProtocol - INFO - 成功处理服务器 hello 消息
+2025-03-17 11:55:15,856 - WebsocketProtocol - INFO - 已连接到WebSocket服务器
+2025-03-17 11:55:15,856 - Application - INFO - 状态变更: connecting -> listening
+2025-03-17 11:55:15,886 - Application - INFO - 音频流已启动
+2025-03-17 11:55:18,189 - Application - INFO - 状态变更: listening -> idle
+2025-03-17 11:55:18,360 - Application - INFO - >> 你好，小志。
+2025-03-17 11:55:18,380 - Application - INFO - 状态变更: idle -> speaking
+2025-03-17 11:55:18,566 - Application - INFO - << 请登录到控制面板添加设备，输入验证码：112476。
+2025-03-17 11:55:18,576 - Application - INFO - 验证码 112476 已复制到剪贴板
+2025-03-17 11:55:18,605 - Application - INFO - 已打开登录页面
+2025-03-17 11:55:18,605 - Application - WARNING - 警告: 验证码, 您的验证码是: 112476
+2025-03-17 11:55:24,216 - Application - INFO - 状态变更: speaking -> idle
+2025-03-17 11:55:40,749 - Application - INFO - 状态变更: idle -> connecting
+2025-03-17 11:55:40,749 - Application - INFO - 状态变更: connecting -> listening
+2025-03-17 11:55:40,749 - Application - INFO - 音频通道已关闭
+2025-03-17 11:55:40,749 - Application - INFO - 状态变更: listening -> idle
+2025-03-17 11:55:40,749 - Application - INFO - 在空闲状态下启动唤醒词检测
+2025-03-17 11:55:40,749 - Application - INFO - 唤醒词功能已禁用，无法启动
+2025-03-17 11:55:40,749 - Application - INFO - 检测到连接断开
+2025-03-17 11:55:40,769 - Application - INFO - 音频流已停止
+2025-03-17 11:55:44,238 - Application - INFO - 状态变更: idle -> connecting
+2025-03-17 11:55:45,584 - Application - INFO - 音频通道已打开
+2025-03-17 11:55:45,584 - WebsocketProtocol - INFO - 成功处理服务器 hello 消息
+2025-03-17 11:55:45,594 - WebsocketProtocol - INFO - 已连接到WebSocket服务器
+2025-03-17 11:55:45,594 - Application - INFO - 状态变更: connecting -> listening
+2025-03-17 11:55:45,614 - Application - INFO - 音频流已启动
+2025-03-17 11:55:48,281 - Application - INFO - 状态变更: listening -> idle
+2025-03-17 11:55:48,455 - Application - INFO - >> 你好，小志。
+2025-03-17 11:55:48,469 - Application - INFO - 状态变更: idle -> speaking
+2025-03-17 11:55:48,895 - Application - INFO - << 你好呀，有什么好玩的事想和我分享吗？
+2025-03-17 11:55:51,874 - Application - INFO - 状态变更: speaking -> idle
+2025-03-17 11:55:52,888 - Application - INFO - 状态变更: idle -> connecting
+2025-03-17 11:55:52,889 - Application - INFO - 状态变更: connecting -> listening
+2025-03-17 11:55:55,734 - Application - INFO - 状态变更: listening -> idle
+2025-03-17 11:55:55,922 - Application - INFO - >> 我想听音乐。
+2025-03-17 11:55:55,935 - Application - INFO - 状态变更: idle -> speaking
+2025-03-17 11:55:56,627 - Application - INFO - << 好的，让我们一起听《好天气》吧！
+2025-03-17 11:55:58,862 - Application - INFO - << 《好天气》
+2025-03-17 11:55:58,863 - Application - INFO - << 作词 : FatdogBoom
+2025-03-17 11:55:59,883 - Application - INFO - << 作曲 : FatdogBoom
+2025-03-17 11:56:00,901 - Application - INFO - << 编曲 : FatdogBoom
+2025-03-17 11:56:03,218 - Display - INFO - 键盘监听器已停止
+2025-03-17 11:58:24,578 - root - INFO - 日志系统已初始化，日志文件: d:\documents\GitHub\py-xiaozhi-main\src\utils\..\..\logs\app.log
+2025-03-17 11:58:25,891 - ConfigManager - INFO - MQTT服务器信息已更新
+2025-03-17 11:58:25,893 - ConfigManager - INFO - MQTT信息已成功更新
+2025-03-17 11:58:26,071 - Application - INFO - 唤醒词功能已禁用
+2025-03-17 11:58:26,071 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-17 11:58:26,071 - Main - INFO - 应用程序已启动，按Ctrl+C退出
+2025-03-17 11:58:26,172 - Application - INFO - 正在初始化应用程序...
+2025-03-17 11:58:26,186 - MusicPlayer - INFO - 音乐播放器初始化完成
+2025-03-17 11:58:26,187 - Application - INFO - 物联网设备初始化完成
+2025-03-17 11:58:26,188 - Application - INFO - 主循环已启动
+2025-03-17 11:58:26,321 - GuiDisplay - INFO - 音量控制器初始化成功，当前音量: 74%
+2025-03-17 11:58:26,772 - AudioCodec - INFO - 使用默认设备: 鑰虫満 (2- EDIFIER W820NB 鍙岄噾鏍囩増) (Index: 1)
+2025-03-17 11:58:26,772 - AudioCodec - INFO - 使用默认设备: 扬声器 (2- EDIFIER W820NB 双金标版) (Index: 13)
+2025-03-17 11:58:26,788 - Display - INFO - 键盘监听器初始化成功
+2025-03-17 11:58:26,792 - Display - INFO - 开始启动GUI主循环
+2025-03-17 11:58:26,823 - AudioCodec - INFO - 音频设备和编解码器初始化成功
+2025-03-17 11:58:26,824 - Application - INFO - 音频编解码器初始化成功
+2025-03-17 11:58:26,825 - Application - INFO - 系统音量控制已启用
+2025-03-17 11:58:26,825 - Application - INFO - 唤醒词功能已禁用
+2025-03-17 11:58:26,826 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-17 11:58:26,826 - Application - INFO - 唤醒词功能已禁用，无法启动
+2025-03-17 11:58:26,827 - Application - INFO - 应用程序初始化完成
+2025-03-17 11:58:27,005 - Display - INFO - 设置音量: 74%
+2025-03-17 11:58:31,490 - Application - INFO - 状态变更: idle -> connecting
+2025-03-17 11:58:32,881 - Application - INFO - 音频通道已打开
+2025-03-17 11:58:32,881 - WebsocketProtocol - INFO - 成功处理服务器 hello 消息
+2025-03-17 11:58:32,881 - WebsocketProtocol - INFO - 已连接到WebSocket服务器
+2025-03-17 11:58:32,881 - Application - INFO - 状态变更: connecting -> listening
+2025-03-17 11:58:32,912 - Application - INFO - 状态变更: listening -> idle
+2025-03-17 11:58:32,912 - Application - INFO - 音频流已启动
+2025-03-17 11:58:34,996 - Application - INFO - 状态变更: idle -> connecting
+2025-03-17 11:58:34,996 - Application - INFO - 状态变更: connecting -> listening
+2025-03-17 11:58:37,290 - Application - INFO - 状态变更: listening -> idle
+2025-03-17 11:58:39,603 - Application - INFO - 状态变更: idle -> connecting
+2025-03-17 11:58:39,603 - Application - INFO - 状态变更: connecting -> listening
+2025-03-17 11:58:42,183 - Application - INFO - 状态变更: listening -> idle
+2025-03-17 11:58:42,381 - Application - INFO - >> 你好。
+2025-03-17 11:58:42,401 - Application - INFO - 状态变更: idle -> speaking
+2025-03-17 11:58:43,092 - Application - INFO - << 嗨，怎么啦？
+2025-03-17 11:58:44,247 - Application - INFO - << 遇到什么烦心事了吗？
+2025-03-17 11:58:48,034 - Display - INFO - 键盘监听器已停止
+2025-03-17 21:01:46,626 - root - INFO - 日志系统已初始化，日志文件: d:\documents\GitHub\py-xiaozhi-main\src\utils\..\..\logs\app.log
+2025-03-17 21:01:48,017 - ConfigManager - INFO - MQTT服务器信息已更新
+2025-03-17 21:01:48,017 - ConfigManager - INFO - MQTT信息已成功更新
+2025-03-17 21:01:48,247 - Application - INFO - 唤醒词功能已禁用
+2025-03-17 21:01:48,247 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-17 21:01:48,247 - Main - INFO - 应用程序已启动，按Ctrl+C退出
+2025-03-17 21:01:48,347 - Application - INFO - 正在初始化应用程序...
+2025-03-17 21:01:48,362 - MusicPlayer - INFO - 音乐播放器初始化完成
+2025-03-17 21:01:48,362 - Application - INFO - 物联网设备初始化完成
+2025-03-17 21:01:48,363 - Application - INFO - 主循环已启动
+2025-03-17 21:01:48,517 - GuiDisplay - INFO - 音量控制器初始化成功，当前音量: 74%
+2025-03-17 21:01:49,058 - AudioCodec - INFO - 使用默认设备: 鑰虫満 (2- EDIFIER W820NB 鍙岄噾鏍囩増) (Index: 1)
+2025-03-17 21:01:49,068 - AudioCodec - INFO - 使用默认设备: 扬声器 (2- EDIFIER W820NB 双金标版) (Index: 13)
+2025-03-17 21:01:49,068 - Display - INFO - 键盘监听器初始化成功
+2025-03-17 21:01:49,069 - Display - INFO - 开始启动GUI主循环
+2025-03-17 21:01:49,110 - AudioCodec - INFO - 音频设备和编解码器初始化成功
+2025-03-17 21:01:49,110 - Application - INFO - 音频编解码器初始化成功
+2025-03-17 21:01:49,119 - Application - INFO - 系统音量控制已启用
+2025-03-17 21:01:49,120 - Application - INFO - 唤醒词功能已禁用
+2025-03-17 21:01:49,120 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-17 21:01:49,121 - Application - INFO - 唤醒词功能已禁用，无法启动
+2025-03-17 21:01:49,121 - Application - INFO - 应用程序初始化完成
+2025-03-17 21:01:49,266 - Display - INFO - 设置音量: 74%
+2025-03-17 21:03:21,785 - Display - INFO - 键盘监听器已停止

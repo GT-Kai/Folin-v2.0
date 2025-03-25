@@ -1,0 +1,273 @@
+2025-03-20 21:32:57,250 - root - INFO - 日志系统已初始化，日志文件: d:\documents\GitHub\py-xiaozhi-main\src\utils\..\..\logs\app.log
+2025-03-20 21:32:59,832 - ConfigManager - INFO - MQTT服务器信息已更新
+2025-03-20 21:32:59,834 - ConfigManager - INFO - MQTT信息已成功更新
+2025-03-20 21:33:00,321 - Application - INFO - 唤醒词功能已禁用
+2025-03-20 21:33:00,322 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-20 21:33:00,322 - Main - INFO - 应用程序已启动，按Ctrl+C退出
+2025-03-20 21:33:00,433 - Application - INFO - 正在初始化应用程序...
+2025-03-20 21:33:00,445 - MusicPlayer - INFO - 音乐播放器初始化完成
+2025-03-20 21:33:00,446 - Application - INFO - 物联网设备初始化完成
+2025-03-20 21:33:00,446 - Application - INFO - 主循环已启动
+2025-03-20 21:33:00,801 - GuiDisplay - INFO - 音量控制器初始化成功，当前音量: 16%
+2025-03-20 21:33:01,618 - AudioCodec - INFO - 使用默认设备: 鑰虫満 (2- EDIFIER W820NB 鍙岄噾鏍囩増) (Index: 1)
+2025-03-20 21:33:01,618 - AudioCodec - INFO - 使用默认设备: 扬声器 (2- EDIFIER W820NB 双金标版) (Index: 13)
+2025-03-20 21:33:01,643 - AudioCodec - INFO - 音频设备和编解码器初始化成功
+2025-03-20 21:33:01,644 - Application - INFO - 音频编解码器初始化成功
+2025-03-20 21:33:01,645 - Application - INFO - 系统音量控制已启用
+2025-03-20 21:33:01,645 - Application - INFO - 唤醒词功能已禁用
+2025-03-20 21:33:01,646 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-20 21:33:01,647 - Application - INFO - 唤醒词功能已禁用，无法启动
+2025-03-20 21:33:01,648 - Application - INFO - 应用程序初始化完成
+2025-03-20 21:33:01,735 - Display - INFO - 键盘监听器初始化成功
+2025-03-20 21:33:01,735 - Display - INFO - 开始启动GUI主循环
+2025-03-20 21:33:01,923 - Display - INFO - 设置音量: 16%
+2025-03-20 21:33:03,330 - Display - INFO - 键盘监听器已停止
+2025-03-20 21:33:52,421 - root - INFO - 日志系统已初始化，日志文件: D:\documents\GitHub\folin_v2.0\py-xiaozhi-main\src\utils\..\..\logs\app.log
+2025-03-20 21:33:53,689 - ConfigManager - INFO - MQTT服务器信息已更新
+2025-03-20 21:33:53,691 - ConfigManager - INFO - MQTT信息已成功更新
+2025-03-20 21:33:53,866 - Application - INFO - 唤醒词功能已禁用
+2025-03-20 21:33:53,867 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-20 21:33:53,867 - Main - INFO - 应用程序已启动，按Ctrl+C退出
+2025-03-20 21:33:53,975 - Application - INFO - 正在初始化应用程序...
+2025-03-20 21:33:53,990 - MusicPlayer - INFO - 音乐播放器初始化完成
+2025-03-20 21:33:53,991 - Application - INFO - 物联网设备初始化完成
+2025-03-20 21:33:53,992 - Application - INFO - 主循环已启动
+2025-03-20 21:33:54,130 - GuiDisplay - INFO - 音量控制器初始化成功，当前音量: 16%
+2025-03-20 21:33:54,704 - AudioCodec - INFO - 使用默认设备: 鑰虫満 (2- EDIFIER W820NB 鍙岄噾鏍囩増) (Index: 1)
+2025-03-20 21:33:54,705 - AudioCodec - INFO - 使用默认设备: 扬声器 (2- EDIFIER W820NB 双金标版) (Index: 13)
+2025-03-20 21:33:54,712 - Display - INFO - 键盘监听器初始化成功
+2025-03-20 21:33:54,712 - Display - INFO - 开始启动GUI主循环
+2025-03-20 21:33:54,731 - AudioCodec - INFO - 音频设备和编解码器初始化成功
+2025-03-20 21:33:54,732 - Application - INFO - 音频编解码器初始化成功
+2025-03-20 21:33:54,733 - Application - INFO - 系统音量控制已启用
+2025-03-20 21:33:54,734 - Application - INFO - 唤醒词功能已禁用
+2025-03-20 21:33:54,734 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-20 21:33:54,735 - Application - INFO - 唤醒词功能已禁用，无法启动
+2025-03-20 21:33:54,735 - Application - INFO - 应用程序初始化完成
+2025-03-20 21:33:54,915 - Display - INFO - 设置音量: 16%
+2025-03-20 21:33:58,257 - Display - INFO - 键盘监听器已停止
+2025-03-20 21:59:43,076 - root - INFO - 日志系统已初始化，日志文件: D:\documents\GitHub\folin_v2.0\py-xiaozhi-main\src\utils\..\..\logs\app.log
+2025-03-20 21:59:44,370 - ConfigManager - INFO - MQTT服务器信息已更新
+2025-03-20 21:59:44,373 - ConfigManager - INFO - MQTT信息已成功更新
+2025-03-20 21:59:44,549 - Application - INFO - 唤醒词功能已禁用
+2025-03-20 21:59:44,549 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-20 21:59:44,550 - Main - INFO - 应用程序已启动，按Ctrl+C退出
+2025-03-20 21:59:44,657 - Application - INFO - 正在初始化应用程序...
+2025-03-20 21:59:44,670 - MusicPlayer - INFO - 音乐播放器初始化完成
+2025-03-20 21:59:44,674 - Application - INFO - 物联网设备初始化完成
+2025-03-20 21:59:44,675 - Application - INFO - 主循环已启动
+2025-03-20 21:59:44,812 - GuiDisplay - INFO - 音量控制器初始化成功，当前音量: 16%
+2025-03-20 21:59:45,309 - AudioCodec - INFO - 使用默认设备: 鑰虫満 (2- EDIFIER W820NB 鍙岄噾鏍囩増) (Index: 1)
+2025-03-20 21:59:45,310 - AudioCodec - INFO - 使用默认设备: 扬声器 (2- EDIFIER W820NB 双金标版) (Index: 13)
+2025-03-20 21:59:45,326 - Display - INFO - 键盘监听器初始化成功
+2025-03-20 21:59:45,327 - Display - INFO - 开始启动GUI主循环
+2025-03-20 21:59:45,338 - AudioCodec - INFO - 音频设备和编解码器初始化成功
+2025-03-20 21:59:45,339 - Application - INFO - 音频编解码器初始化成功
+2025-03-20 21:59:45,339 - Application - INFO - 系统音量控制已启用
+2025-03-20 21:59:45,340 - Application - INFO - 唤醒词功能已禁用
+2025-03-20 21:59:45,341 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-20 21:59:45,341 - Application - INFO - 唤醒词功能已禁用，无法启动
+2025-03-20 21:59:45,343 - Application - INFO - 应用程序初始化完成
+2025-03-20 21:59:45,545 - Display - INFO - 设置音量: 16%
+2025-03-20 21:59:54,546 - Application - INFO - 对话模式已切换为: 自动
+2025-03-20 22:00:05,899 - Application - INFO - 状态变更: idle -> connecting
+2025-03-20 22:00:05,985 - Application - INFO - 音频通道已打开
+2025-03-20 22:00:05,985 - WebsocketProtocol - INFO - 成功处理服务器 hello 消息
+2025-03-20 22:00:05,986 - WebsocketProtocol - INFO - 已连接到WebSocket服务器
+2025-03-20 22:00:05,987 - Application - INFO - 状态变更: connecting -> listening
+2025-03-20 22:00:06,010 - Application - INFO - 音频流已启动
+2025-03-20 22:00:08,219 - Application - INFO - 音频通道已打开
+2025-03-20 22:00:08,219 - WebsocketProtocol - INFO - 成功处理服务器 hello 消息
+2025-03-20 22:00:08,236 - Application - INFO - 音频流已启动
+2025-03-20 22:00:15,565 - Application - INFO - >> Ful苓
+2025-03-20 22:00:15,574 - Application - INFO - 状态变更: listening -> speaking
+2025-03-20 22:00:23,686 - Application - INFO - << 哈啰～我在深圳呢，有什么想聊的？
+2025-03-20 22:00:27,189 - Application - INFO - << 机车一点也没关系，我听得懂啦
+2025-03-20 22:00:30,591 - Application - INFO - 状态变更: speaking -> listening
+2025-03-20 22:00:39,057 - Application - INFO - >> 呃，你在哪儿？
+2025-03-20 22:00:39,065 - Application - INFO - 状态变更: listening -> speaking
+2025-03-20 22:00:43,682 - Application - INFO - << 我在深圳啊，广东这边的，你呢？
+2025-03-20 22:00:47,195 - Application - INFO - << 别告诉我是台北，我可是正宗的台湾女孩
+2025-03-20 22:00:51,378 - Application - INFO - 状态变更: speaking -> listening
+2025-03-20 22:01:00,137 - Application - INFO - >> 我的发为什么你的语音变了？
+2025-03-20 22:01:00,163 - Application - INFO - 状态变更: listening -> speaking
+2025-03-20 22:01:06,406 - Application - INFO - << 哎呀，抱歉啦，可能是我这边系统的问题，有时候会自动调整音效
+2025-03-20 22:01:09,934 - Application - INFO - 中止语音输出，原因: wake_word_detected
+2025-03-20 22:01:10,766 - Application - INFO - 状态变更: speaking -> listening
+2025-03-20 22:01:10,797 - Application - INFO - 状态变更: speaking -> idle
+2025-03-20 22:01:11,152 - Application - INFO - 状态变更: idle -> connecting
+2025-03-20 22:01:11,153 - Application - INFO - 状态变更: connecting -> listening
+2025-03-20 22:01:11,350 - Display - INFO - 键盘监听器已停止
+2025-03-20 22:02:48,801 - root - INFO - 日志系统已初始化，日志文件: D:\documents\GitHub\folin_v2.0\py-xiaozhi-main\src\utils\..\..\logs\app.log
+2025-03-20 22:02:50,086 - ConfigManager - INFO - MQTT服务器信息已更新
+2025-03-20 22:02:50,089 - ConfigManager - INFO - MQTT信息已成功更新
+2025-03-20 22:02:50,270 - Application - INFO - 唤醒词功能已禁用
+2025-03-20 22:02:50,271 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-20 22:02:50,271 - Main - INFO - 应用程序已启动，按Ctrl+C退出
+2025-03-20 22:02:50,388 - Application - INFO - 正在初始化应用程序...
+2025-03-20 22:02:50,402 - MusicPlayer - INFO - 音乐播放器初始化完成
+2025-03-20 22:02:50,404 - Application - INFO - 物联网设备初始化完成
+2025-03-20 22:02:50,406 - Application - INFO - 主循环已启动
+2025-03-20 22:02:50,542 - GuiDisplay - INFO - 音量控制器初始化成功，当前音量: 16%
+2025-03-20 22:02:51,037 - AudioCodec - INFO - 使用默认设备: 鑰虫満 (2- EDIFIER W820NB 鍙岄噾鏍囩増) (Index: 1)
+2025-03-20 22:02:51,037 - Display - INFO - 键盘监听器初始化成功
+2025-03-20 22:02:51,038 - AudioCodec - INFO - 使用默认设备: 扬声器 (2- EDIFIER W820NB 双金标版) (Index: 13)
+2025-03-20 22:02:51,039 - Display - INFO - 开始启动GUI主循环
+2025-03-20 22:02:51,066 - AudioCodec - INFO - 音频设备和编解码器初始化成功
+2025-03-20 22:02:51,067 - Application - INFO - 音频编解码器初始化成功
+2025-03-20 22:02:51,068 - Application - INFO - 系统音量控制已启用
+2025-03-20 22:02:51,069 - Application - INFO - 唤醒词功能已禁用
+2025-03-20 22:02:51,069 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-20 22:02:51,070 - Application - INFO - 唤醒词功能已禁用，无法启动
+2025-03-20 22:02:51,071 - Application - INFO - 应用程序初始化完成
+2025-03-20 22:02:51,247 - Display - INFO - 设置音量: 16%
+2025-03-20 22:02:55,139 - Application - INFO - 状态变更: idle -> connecting
+2025-03-20 22:02:56,568 - Application - INFO - 音频通道已打开
+2025-03-20 22:02:56,569 - WebsocketProtocol - INFO - 成功处理服务器 hello 消息
+2025-03-20 22:02:56,570 - WebsocketProtocol - INFO - 已连接到WebSocket服务器
+2025-03-20 22:02:56,571 - Application - INFO - 状态变更: connecting -> listening
+2025-03-20 22:02:56,591 - Application - INFO - 状态变更: listening -> idle
+2025-03-20 22:02:56,593 - Application - INFO - 音频流已启动
+2025-03-20 22:02:57,784 - Application - INFO - 状态变更: idle -> connecting
+2025-03-20 22:02:57,785 - Application - INFO - 状态变更: connecting -> listening
+2025-03-20 22:02:59,656 - Application - INFO - 状态变更: listening -> idle
+2025-03-20 22:02:59,795 - Application - INFO - >> 也。
+2025-03-20 22:02:59,797 - Application - INFO - 状态变更: idle -> speaking
+2025-03-20 22:03:00,692 - Application - INFO - << 嗯，怎么啦？
+2025-03-20 22:03:03,385 - Application - INFO - 状态变更: speaking -> idle
+2025-03-20 22:03:03,585 - Application - INFO - 状态变更: idle -> connecting
+2025-03-20 22:03:03,586 - Application - INFO - 状态变更: connecting -> listening
+2025-03-20 22:03:06,090 - Application - INFO - 状态变更: listening -> idle
+2025-03-20 22:03:06,234 - Application - INFO - >> 啊，你的声音怎么变了？
+2025-03-20 22:03:06,245 - Application - INFO - 状态变更: idle -> speaking
+2025-03-20 22:03:06,782 - Application - INFO - << 可能是麦克风的问题吧，不过还是那个我呀，有什么事情吗？
+2025-03-20 22:03:11,611 - Application - INFO - 状态变更: speaking -> idle
+2025-03-20 22:03:14,308 - Application - INFO - 对话模式已切换为: 自动
+2025-03-20 22:03:23,201 - Application - INFO - 状态变更: idle -> connecting
+2025-03-20 22:03:23,201 - Application - INFO - 状态变更: connecting -> listening
+2025-03-20 22:03:27,110 - Application - INFO - >> 嗯，没有。
+2025-03-20 22:03:27,119 - Application - INFO - 状态变更: listening -> speaking
+2025-03-20 22:03:27,524 - Application - INFO - << 那就好，最近过得怎么样？
+2025-03-20 22:03:29,150 - Application - INFO - << 有没有什么新鲜事儿？
+2025-03-20 22:03:31,381 - Application - INFO - 状态变更: speaking -> listening
+2025-03-20 22:03:41,316 - Application - INFO - >> 没有。
+2025-03-20 22:03:41,318 - Application - INFO - 状态变更: listening -> speaking
+2025-03-20 22:03:41,758 - Application - INFO - << 嗯，那你可以和我聊聊你最近的心情，或者有什么事情让你觉得不开心？
+2025-03-20 22:03:47,016 - Application - INFO - << 我在这里听你说。
+2025-03-20 22:03:49,616 - Application - INFO - 状态变更: speaking -> listening
+2025-03-20 22:03:55,989 - Application - INFO - >> 可飞哥，你的素度调整啊？
+2025-03-20 22:03:56,001 - Application - INFO - 状态变更: listening -> speaking
+2025-03-20 22:03:56,352 - Application - INFO - << 哦，你说的是我的语速吗？
+2025-03-20 22:03:58,930 - Application - INFO - << 可能是因为系统更新了，不过我还是那个逗你开心的茯苓。
+2025-03-20 22:04:03,010 - Application - INFO - << 有什么事情让你觉得不开心吗？
+2025-03-20 22:04:05,769 - Application - INFO - << 我在这里听你说。
+2025-03-20 22:04:08,024 - Application - INFO - 状态变更: speaking -> listening
+2025-03-20 22:04:10,875 - Application - INFO - >> 暂时没。
+2025-03-20 22:04:10,881 - Application - INFO - 状态变更: listening -> speaking
+2025-03-20 22:04:11,315 - Application - INFO - << 那就好，如果有什么烦恼或者想聊的事情，随时可以和我说哦。
+2025-03-20 22:04:15,914 - Application - INFO - << 有没有什么好玩的事，或者想听点音乐放松一下？
+2025-03-20 22:04:20,439 - Application - INFO - 状态变更: speaking -> listening
+2025-03-20 22:04:27,148 - Application - INFO - >> 那就等。
+2025-03-20 22:04:27,149 - Application - INFO - 状态变更: listening -> speaking
+2025-03-20 22:04:27,962 - Application - INFO - << 好的，我在这里等你。
+2025-03-20 22:04:29,128 - Application - INFO - << 如果你需要我，随时说一声。
+2025-03-20 22:04:31,648 - Application - INFO - << 放松一下，我们聊点别的吧。
+2025-03-20 22:04:33,988 - Application - INFO - << 比如，你最近有没有看什么有趣的电影或者电视剧？
+2025-03-20 22:04:36,827 - Application - INFO - 中止语音输出，原因: wake_word_detected
+2025-03-20 22:04:37,474 - Application - INFO - 状态变更: speaking -> idle
+2025-03-20 22:04:37,521 - Application - INFO - 状态变更: idle -> listening
+2025-03-20 22:04:38,032 - Application - INFO - 状态变更: listening -> idle
+2025-03-20 22:04:38,063 - Application - INFO - 状态变更: idle -> connecting
+2025-03-20 22:04:38,064 - Application - INFO - 状态变更: connecting -> listening
+2025-03-20 22:04:42,898 - Application - INFO - >> 放音乐地铁等待。
+2025-03-20 22:04:42,901 - Application - INFO - 状态变更: listening -> speaking
+2025-03-20 22:04:43,732 - Application - INFO - << 好的，来一首《好天气》帮你放松一下。
+2025-03-20 22:04:46,630 - Application - INFO - << 《好天气》
+2025-03-20 22:04:46,632 - Application - INFO - << 作词 : FatdogBoom
+2025-03-20 22:04:47,580 - Application - INFO - << 作曲 : FatdogBoom
+2025-03-20 22:04:48,598 - Application - INFO - << 编曲 : FatdogBoom
+2025-03-20 22:04:55,557 - Application - INFO - << 今天是个好天气 外面刮风又下雨
+2025-03-20 22:05:00,536 - Application - INFO - << 我在学着卓别林 为你撑伞你发脾气
+2025-03-20 22:05:05,516 - Application - INFO - << 可是只要看见你 我的手里就没武器
+2025-03-20 22:05:10,587 - Application - INFO - << 你要去哪里 我 我 我就去哪里
+2025-03-20 22:05:15,582 - Application - INFO - << 每天都是你 梦里都会见到你
+2025-03-20 22:05:20,544 - Application - INFO - << 有你就是好天气 不管刮风又下雨
+2025-03-20 22:05:28,478 - WebsocketProtocol - INFO - WebSocket连接已关闭
+2025-03-20 22:05:28,493 - Application - INFO - 音频通道已关闭
+2025-03-20 22:05:30,134 - Application - INFO - 状态变更: speaking -> idle
+2025-03-20 22:05:30,135 - Application - INFO - 在空闲状态下启动唤醒词检测
+2025-03-20 22:05:30,135 - Application - INFO - 唤醒词功能已禁用，无法启动
+2025-03-20 22:05:30,149 - Application - INFO - 音频流已停止
+2025-03-20 22:05:47,970 - Display - INFO - 键盘监听器已停止
+2025-03-20 22:09:03,661 - root - INFO - 日志系统已初始化，日志文件: D:\documents\GitHub\folin_v2.0\py-xiaozhi-main\src\utils\..\..\logs\app.log
+2025-03-20 22:09:05,977 - ConfigManager - INFO - MQTT服务器信息已更新
+2025-03-20 22:09:05,978 - ConfigManager - INFO - MQTT信息已成功更新
+2025-03-20 22:09:06,155 - Application - INFO - 唤醒词功能已禁用
+2025-03-20 22:09:06,156 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-20 22:09:06,156 - Main - INFO - 应用程序已启动，按Ctrl+C退出
+2025-03-20 22:09:06,267 - Application - INFO - 正在初始化应用程序...
+2025-03-20 22:09:06,279 - MusicPlayer - INFO - 音乐播放器初始化完成
+2025-03-20 22:09:06,280 - Application - INFO - 物联网设备初始化完成
+2025-03-20 22:09:06,280 - Application - INFO - 主循环已启动
+2025-03-20 22:09:06,410 - GuiDisplay - INFO - 音量控制器初始化成功，当前音量: 16%
+2025-03-20 22:09:06,871 - Display - INFO - 键盘监听器初始化成功
+2025-03-20 22:09:06,872 - Display - INFO - 开始启动GUI主循环
+2025-03-20 22:09:06,905 - AudioCodec - INFO - 使用默认设备: 鑰虫満 (2- EDIFIER W820NB 鍙岄噾鏍囩増) (Index: 1)
+2025-03-20 22:09:06,906 - AudioCodec - INFO - 使用默认设备: 扬声器 (2- EDIFIER W820NB 双金标版) (Index: 13)
+2025-03-20 22:09:06,929 - AudioCodec - INFO - 音频设备和编解码器初始化成功
+2025-03-20 22:09:06,930 - Application - INFO - 音频编解码器初始化成功
+2025-03-20 22:09:06,931 - Application - INFO - 系统音量控制已启用
+2025-03-20 22:09:06,932 - Application - INFO - 唤醒词功能已禁用
+2025-03-20 22:09:06,932 - Application - INFO - 唤醒词检测器初始化成功
+2025-03-20 22:09:06,933 - Application - INFO - 唤醒词功能已禁用，无法启动
+2025-03-20 22:09:06,933 - Application - INFO - 应用程序初始化完成
+2025-03-20 22:09:07,090 - Display - INFO - 设置音量: 16%
+2025-03-20 22:09:12,048 - Application - INFO - 状态变更: idle -> connecting
+2025-03-20 22:09:12,111 - Application - INFO - 音频通道已打开
+2025-03-20 22:09:12,112 - WebsocketProtocol - INFO - 成功处理服务器 hello 消息
+2025-03-20 22:09:12,113 - WebsocketProtocol - INFO - 已连接到WebSocket服务器
+2025-03-20 22:09:12,114 - Application - INFO - 状态变更: connecting -> listening
+2025-03-20 22:09:12,126 - Application - INFO - 状态变更: listening -> idle
+2025-03-20 22:09:12,127 - Application - INFO - 音频流已启动
+2025-03-20 22:09:15,315 - Application - INFO - 音频通道已打开
+2025-03-20 22:09:15,316 - WebsocketProtocol - INFO - 成功处理服务器 hello 消息
+2025-03-20 22:09:15,321 - Application - INFO - 音频流已启动
+2025-03-20 22:09:27,885 - Application - INFO - 状态变更: idle -> connecting
+2025-03-20 22:09:27,887 - Application - INFO - 状态变更: connecting -> listening
+2025-03-20 22:09:29,712 - Application - INFO - 状态变更: listening -> idle
+2025-03-20 22:09:33,321 - Application - INFO - >> 涪苓
+2025-03-20 22:09:33,337 - Application - INFO - 状态变更: idle -> speaking
+2025-03-20 22:09:33,539 - Application - INFO - 中止语音输出，原因: wake_word_detected
+2025-03-20 22:09:33,540 - Application - INFO - 状态变更: speaking -> idle
+2025-03-20 22:09:42,299 - Application - INFO - 状态变更: idle -> connecting
+2025-03-20 22:09:42,300 - Application - INFO - 状态变更: connecting -> listening
+2025-03-20 22:09:44,832 - Application - INFO - 状态变更: listening -> idle
+2025-03-20 22:09:48,628 - Application - INFO - >> 你好，福蝶
+2025-03-20 22:09:48,645 - Application - INFO - 状态变更: idle -> speaking
+2025-03-20 22:09:50,920 - Application - INFO - << 哎呀，这么快就伤感啦？
+2025-03-20 22:09:53,530 - Application - INFO - << 别啦，福蝶，深圳的天气这么好，有什么事情让你不高兴的？
+2025-03-20 22:10:00,717 - Application - INFO - 状态变更: speaking -> idle
+2025-03-20 22:10:02,119 - Application - INFO - 对话模式已切换为: 自动
+2025-03-20 22:10:02,954 - Application - INFO - 状态变更: idle -> connecting
+2025-03-20 22:10:02,954 - Application - INFO - 状态变更: connecting -> listening
+2025-03-20 22:10:12,450 - Application - INFO - >> 没有什么，但是你的反应速度确实有点慢，不如
+2025-03-20 22:10:12,458 - Application - INFO - 状态变更: listening -> speaking
+2025-03-20 22:10:15,824 - Application - INFO - << 嘿嘿，福蝶你这是在嫌弃我啦？
+2025-03-20 22:10:19,084 - Application - INFO - << 我可是24小时在线的，反应慢点也是因为我在认真思考怎么回你嘛
+2025-03-20 22:10:25,940 - Application - INFO - << 有什么事情可以让我快速反应的，尽管说啊
+2025-03-20 22:10:31,743 - Application - INFO - 状态变更: speaking -> listening
+2025-03-20 22:10:36,760 - Application - INFO - >> 气如何？
+2025-03-20 22:10:36,812 - Application - INFO - 状态变更: listening -> speaking
+2025-03-20 22:10:39,857 - Application - INFO - << 气？
+2025-03-20 22:10:40,964 - Application - INFO - << 我啊，气得像只斗鸡一样
+2025-03-20 22:10:49,642 - Application - INFO - << 但别看我这样，我内心其实很平和的，就是有时候嘴巴硬
+2025-03-20 22:10:55,075 - Application - INFO - << 你呢，气什么呢？
+2025-03-20 22:10:57,216 - Application - INFO - << 说出来让我帮你顺顺气
+2025-03-20 22:11:01,730 - Application - INFO - 状态变更: speaking -> listening
+2025-03-20 22:11:13,495 - Application - INFO - >> 我说今天的天气如何？
+2025-03-20 22:11:13,517 - Application - INFO - 状态变更: listening -> speaking
+2025-03-20 22:11:16,675 - Application - INFO - << 今天的天气？
+2025-03-20 22:11:18,394 - Application - INFO - << 深圳啊，应该是挺热的吧，太阳大得很，记得要防晒哦
+2025-03-20 22:11:27,116 - Application - INFO - << 不过具体温度和状况，我这边没实时数据，你可以看看手机天气APP啊
+2025-03-20 22:11:35,231 - Application - INFO - 状态变更: speaking -> listening
+2025-03-20 22:11:52,729 - Display - INFO - 键盘监听器已停止

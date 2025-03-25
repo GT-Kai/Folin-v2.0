@@ -1,0 +1,39 @@
+{
+  "CLIENT_ID": "9d178513-2404-411d-8f9e-55dd3f25c6a6",
+  "DEVICE_ID": "a4:0c:66:10:ef:07",
+  "NETWORK": {
+    "OTA_VERSION_URL": "https://api.tenclass.net/xiaozhi/ota/",
+    "WEBSOCKET_URL": "wss://api.tenclass.net/xiaozhi/v1/",
+    "WEBSOCKET_ACCESS_TOKEN": "test-token"
+  },
+  "MQTT_INFO": {
+    "endpoint": "post-cn-apg3xckag01.mqtt.aliyuncs.com",
+    "client_id": "GID_test@@@a4_0c_66_10_ef_07",
+    "username": "Signature|LTAI5tF8J3CrdWmRiuTjxHbF|post-cn-apg3xckag01",
+    "password": "YyQ5xrON+RgbGpwDXrPUQLnJPOw=",
+    "publish_topic": "device-server",
+    "subscribe_topic": "devices/a4_0c_66_10_ef_07"
+  },
+  "USE_WAKE_WORD": false,
+  "WAKE_WORDS": [
+    "茯苓",
+    "你好茯苓"
+  ],
+  "WAKE_WORD_MODEL_PATH": "./models/vosk-model-small-cn-0.22",
+  "MUSIC_PLAYER": {
+    "API": {
+      "BASE_URL": "http://localhost:3200",
+      "SEARCH_ENDPOINT": "/getSearchByKey",
+      "PLAY_ENDPOINT": "/getMusicPlay",
+      "LYRIC_ENDPOINT": "/getLyric"
+    },
+    "HEADERS": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity",
+      "Connection": "keep-alive",
+      "Referer": "https://y.qq.com/",
+      "Cookie": ""
+    }
+  }
+}
